@@ -38,8 +38,7 @@ jobs:
 
             echo " ------- login in to hub--------"
 
-            docker login -u newthingade -p $DOCKERPASS-stdin
-
+            docker login -u raphaelkwesi -p $DOCKERPASS
             echo "-------------- Pushing images to dockerhub-------"
 
             docker push newthingade/udagram-api-feed:v3
