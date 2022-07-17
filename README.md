@@ -1,5 +1,6 @@
+[![Build Status](https://app.travis-ci.com/RaphaelKwesi/Udacity-Project-3-Monolith-to-MicroServices.svg?branch=main)](https://app.travis-ci.com/RaphaelKwesi/Udacity-Project-3-Monolith-to-MicroServices) <--Travis Success Badge
 
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/RaphaelKwesi/Udacity-Project-3-Monolith-to-MicroServices/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/RaphaelKwesi/Udacity-Project-3-Monolith-to-MicroServices/tree/main)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/RaphaelKwesi/Udacity-Project-3-Monolith-to-MicroServices/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/RaphaelKwesi/Udacity-Project-3-Monolith-to-MicroServices/tree/main) <--CircleCI Success Badge
 
 # Udagram Image Filtering Application
 
