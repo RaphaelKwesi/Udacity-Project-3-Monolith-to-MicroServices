@@ -1,10 +1,11 @@
-[![Build Status](https://app.travis-ci.com/RaphaelKwesi/Udacity-Project-3-Monolith-to-MicroServices.svg?branch=main)](https://app.travis-ci.com/RaphaelKwesi/Udacity-Project-3-Monolith-to-MicroServices) <--Travis Success Badge
+[![Build Status](https://app.travis-ci.com/RaphaelKwesi/Udacity-Project-3-Monolith-to-MicroServices.svg?branch=main)](https://app.travis-ci.com/RaphaelKwesi/Udacity-Project-3-Monolith-to-MicroServices)   <--Travis Success Badge
 
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/RaphaelKwesi/Udacity-Project-3-Monolith-to-MicroServices/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/RaphaelKwesi/Udacity-Project-3-Monolith-to-MicroServices/tree/main) <--CircleCI Success Badge
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/RaphaelKwesi/Udacity-Project-3-Monolith-to-MicroServices/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/RaphaelKwesi/Udacity-Project-3-Monolith-to-MicroServices/tree/main)    <--CircleCI Success Badge
+
+[External IP of my publicfrontend service on AWS](http://a5b08ebf6f4fb4964a40749494dced22-468572507.us-east-2.elb.amazonaws.com/)
 
 # Udagram Image Filtering Application
 
-Getting Started
 Udagram is a simple cloud application developed alongside the Udacity Cloud Engineering Nanodegree. It allows users to register and log into a web client, post photos to the feed, and process photos using an image filtering microservice.
 
 The project is split into two parts:
